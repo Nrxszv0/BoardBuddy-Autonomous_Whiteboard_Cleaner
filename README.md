@@ -19,9 +19,3 @@ https://github.com/Nrxszv0/BoardBuddy-Autonomous_Whiteboard_Cleaner/assets/58677
 
 
 
-
-![Posters](https://github.com/Nrxszv0/BoardBuddy-Autonomous_Whiteboard_Cleaner/assets/58677365/455215aa-4a37-485c-8d60-6f5f290d99fc)
-![April Tag Detection](https://github.com/Nrxszv0/BoardBuddy-Autonomous_Whiteboard_Cleaner/assets/58677365/1ec3934f-0681-4be0-8d8d-1568492d839b)
-![Robot](https://github.com/Nrxszv0/BoardBuddy-Autonomous_Whiteboard_Cleaner/assets/58677365/06dfb4b2-b7f0-4fd3-807a-853cfdbdbba2)
-![Sensor Demo](https://github.com/Nrxszv0/BoardBuddy-Autonomous_Whiteboard_Cleaner/assets/58677365/d23e28aa-6339-4580-a103-ede5a4e0081f)
-![Laptop](https://github.com/Nrxszv0/BoardBuddy-Autonomous_Whiteboard_Cleaner/assets/58677365/19ef642b-de27-4476-85a1-aeefa7c872ac)
